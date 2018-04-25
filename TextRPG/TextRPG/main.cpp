@@ -14,7 +14,7 @@ enum MAIN_MENU
 
 int main() {
 	while (true) {
-		system("cls"); 
+		system("cls");
 		cout << "1. ¸Ê" << endl;
 		cout << "2. »óÁ¡" << endl;
 		cout << "3. °¡¹æ" << endl;
