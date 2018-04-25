@@ -16,10 +16,10 @@ int main() {
 	while (true) {
 		system("cls");
 
-		cout << "1. 맵" << endl;
-		cout << "2. 상점" << endl;
-		cout << "3. 가방" << endl;
-		cout << "4. 종료" << endl;
+		cout << "1. Map" << endl;
+		cout << "2. Store" << endl;
+		cout << "3. Inventory" << endl;
+		cout << "4. Exit" << endl;
 
 		int iMenu;
 		cin >> iMenu;
