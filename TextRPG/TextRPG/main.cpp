@@ -15,10 +15,7 @@ enum MAIN_MENU
 int main() {
 	while (true) {
 		system("cls"); 
-		cout << "1. 맵" << endl;
-		cout << "2. 상점" << endl;
-		cout << "3. 가방" << endl;
-		cout << "4. 종료" << endl;
+//한국어
 
 		int iMenu;
 		cin >> iMenu;
